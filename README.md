@@ -4,6 +4,11 @@
 Результаты выводит в таблицу Excel в виде ID | Имя | Фамилия | Комментарий.
 
 ГАЙД
+0. Установите, если не установлено openpyxl и tqdm.
+
+pip install openpyxl
+pip install tqdm
+
 Вводите в командную строку
 1. python COMMENT_VK.py
 
