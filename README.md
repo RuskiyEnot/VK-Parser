@@ -7,6 +7,7 @@
 0. Установите, если не установлено openpyxl и tqdm.
 
 pip install openpyxl
+
 pip install tqdm
 
 Вводите в командную строку
