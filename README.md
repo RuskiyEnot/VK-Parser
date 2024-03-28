@@ -5,7 +5,7 @@
 
 ГАЙД
 Вводите в командную строку
-1. <python COMMENT_VK.py>
+1. python COMMENT_VK.py
 
 2. Enter the VK group domain:
 тут вводите имя сообщества после "https://vk.com/.."
